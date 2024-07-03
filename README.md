@@ -29,7 +29,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=anaconda,python,vscode,figma,git,r,postgres" />
     <img src="https://skillicons.dev/icons?i=gcp,git,github,mongodb,mysql,sklearn,sqlite"/><br> 
-    <img align="center" alt="Canta-Jupyter" height="30" width="40" src="https://devicons.railway.app/i/jupyter.svg" />
+    
 </div>
 
 <hr>
