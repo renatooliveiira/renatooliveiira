@@ -8,10 +8,9 @@
 
 ## ✍️ Sobre mim:
 
-> Olá! Seja muito bem-vindo ao meu `github`! Aqui eu documento todos os meus projetos de projeto de Análise de Dados. Tenho direcionado os meus estudos para a área de `análise de dados` e `machine learning` utilizando a linguagem `Python`, assim como outras ferramentas utilizadas dentro da área de dados.
+> Olá! Bem-vindo ao meu `github`! Aqui você encontrará a documentação de todos os meus projetos de Análise de Dados. Tenho focado meus estudos na área de `análise de dados` e `machine learning` utilizando a linguagem `Python` e outras ferramentas amplamente usadas no campo de dados.
 
 <br />
-
  
 🌱 I’m currently learning **Machine Learning, Python, SQL.**
 
@@ -25,11 +24,35 @@
   </a>
 </div>
  
-## 🔗 Tools:
+## 👨🏻‍💻 Technologies:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=anaconda,python,vscode,figma,git,r,postgres" />
     <img src="https://skillicons.dev/icons?i=gcp,git,github,mongodb,mysql,sklearn"/><br> 
     <img align="center" alt="Canta-Jupyter" height="30" width="40" src="https://devicons.railway.app/i/jupyter.svg" />
 </div>
+
+<hr>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=renatooliveiira&theme=radical&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=renatooliveiira&theme=radical&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=renatooliveiira&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+   </td>
+</tr>
+</table>
+<div align=center>
+    </a>
+</div>
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=120&section=footer"/>
