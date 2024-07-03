@@ -6,7 +6,7 @@
 
 <br/>
 
-## ✍️ Sobre mim:
+## 🖊️ Sobre mim:
 
 > Olá! Bem-vindo ao meu `github`! Aqui você encontrará a documentação de todos os meus projetos de Análise de Dados. Tenho focado meus estudos na área de `análise de dados` e `machine learning` utilizando a linguagem `Python` e outras ferramentas amplamente usadas no campo de dados.
 
