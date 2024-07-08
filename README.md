@@ -49,8 +49,6 @@
  <img src="https://img.shields.io/badge/Scrum-5F9EA0?style=for-the-badge&logo=scrum&logoColor=fff"/>
 </p>
 
-<br />
-
 ## Soft Skills:
 
 <br />
