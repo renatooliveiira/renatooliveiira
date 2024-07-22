@@ -80,8 +80,9 @@
 
 ## Top Respositorys
   <p align="left">
-     <a href="https://github.com/renatooliveiira/strategic-shopping-insights"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatooliveiira&repo=strategic-shopping-insights&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
-     <a href="https://github.com/renatooliveiira/linear_regression_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatooliveiira&repo=linear_regression_analysis&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">   
+     <a href="https://github.com/renatooliveiira/AB_test_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatooliveiira&repo=AB_test_analysis&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+     <a href="https://github.com/renatooliveiira/campaign_ads"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatooliveiira&repo=campaign_ads&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+    <a href="https://github.com/renatooliveiira/tesla_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatooliveiira&repo=tesla_analysis&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
 </a>
   </p>
 
