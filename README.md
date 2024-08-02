@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/iamrenato" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8FBC8F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/renatooliveiira" target="_blank">
+  <a href="https://renatooliveiira.github.io/portfolio_projetos/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-8FBC8F?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
  
